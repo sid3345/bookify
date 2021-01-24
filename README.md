@@ -8,7 +8,7 @@ Simple application to buy books using **React**.
  * Node
  * NPM
 #### Package Installation
-Go to the project folder(using console using ***cd*** command) where ***package.json*** lives and execute the following command
+Go into the project folder through console where *package.json* is and execute the following command
 ```
   npm install
 ```
