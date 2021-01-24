@@ -5,7 +5,7 @@ const BookCard = ({book, addBookToCart, cartItems}) =>{
 	let doesBookExistInCart = cartItems.filter(item=> item.bookID === book.bookID).length > 0;
 	return(
 		<div className="book-list-item">
-			<p>{book.title}</p>
+			<p>{book.title.toString().substring(0, 100)}</p>
 			<p className="book-details"><i className="fas fa-rupee-sign"></i> Author(s): {book.authors}</p>
 			<p className="book-details"><i className="fas fa-rupee-sign"></i> ISBN: {book.isbn}</p>
 			<p className="book-details"><i className="fas fa-rupee-sign"></i> Language: {book.language_code ? 'English':''}</p>
