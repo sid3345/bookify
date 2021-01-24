@@ -2,9 +2,6 @@
 
 Simple eCommerce application using **React**.
 
-## Live Demo
-[https://srinandan33.github.io/react-bookshop](https://srinandan33.github.io/react-bookshop)
-
 ## Setup
 
 #### Requirements
