@@ -1,6 +1,6 @@
 # Bookify
 
-Simple eCommerce application using **React**.
+Simple application to buy books using **React**.
 
 ## Setup
 
