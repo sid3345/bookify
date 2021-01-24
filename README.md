@@ -1,6 +1,6 @@
 # Bookify
 
-A simple application to buy books, created using **React**.
+A simple application to browse books, created using **React**.
 This application was created for ECS Frontend Developer Challenge on HackerEarth: https://www.hackerearth.com/challenges/hiring/ecs-frontend-developer-hiring-challenge
 
 #### Package Installation
